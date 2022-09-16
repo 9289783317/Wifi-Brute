@@ -21,3 +21,17 @@ A tool to crack a wifi password with a help of wordlist. This may take long to c
 
 # Help
 For any support/help iam mostly active on Instagram @cyber_dioxide , @coding_memz
+Pkg install git clone -y
+
+Pkg install-git 
+
+Chmod+x*
+
+Pkg install wifi password show
+
+Pkg install scan 
+
+
+Run 
+
+Pkg wifi scan 
